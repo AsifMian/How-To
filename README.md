@@ -12,7 +12,7 @@ git clone https://github.com/AsifMian/photo-album-laravel.git
    Then Run
   # php artisan key:generate
   Then run
-  #php artisan migrate
+  # php artisan migrate
   then
   # php artisan db:seed
   
