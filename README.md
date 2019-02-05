@@ -15,3 +15,4 @@ This repository have useful information about how to do something i.e important 
   then
   # php artisan db:seed
   
+#Now you are good to go
