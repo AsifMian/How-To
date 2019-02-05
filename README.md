@@ -8,7 +8,7 @@ git clone https://github.com/AsifMian/photo-album-laravel.git
 # 2.move to that folder 
 # 3.Run "composer update" command
 #  4.rename .env.Example To .env
-#  5.and Add your database credentials i.e db name ,password etc
+#  5.and Add your database credentials i.e db name ,password etc in .env file
    Then Run
   # php artisan key:generate
   Then run
