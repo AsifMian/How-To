@@ -44,6 +44,10 @@ Then run
 
 
 How to delete branch 
+>> git branch -D branchName
+>> git branch -d branchName
+   
+ OR
 
 >>git push origin --delete branchName
 
