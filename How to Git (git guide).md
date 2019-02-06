@@ -3,7 +3,7 @@
 Type:
 
 - 1.git init
-- 2.git add .
+- 2.git add . (. to add all files otherwise you can write only one file name)
 - 3.git commit -m "Message to Display i.e first time you time write initial comment"
 
 **Now your Project have been Added to local machine git**
