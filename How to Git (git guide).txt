@@ -40,3 +40,10 @@ Then run
 4.git push origin master
 
 **Your changes have been saved to git repository**
+
+
+
+How to delete branch 
+
+>>git push origin --delete branchName
+
