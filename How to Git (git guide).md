@@ -30,7 +30,7 @@ if you changed the files online then
   - git pull 
  
   or 
- - git clone <repository address>
+ - git clone <<repository address>>
 
 }
 
@@ -38,23 +38,24 @@ if you changed the files online then
 
 - 1.git add .
 
-For evey change you have to commit the change
+**For evey change you have to commit the change
 
 - 2.git commit -m "New change"
 
-check wheather all changes have been commited
+**check wheather all changes have been commited
 
 - 3.git status
 
-Then run
+**Then run
 
 - 4.git push origin master
 
 # Your changes have been saved to git repository
 
 
-How to delete branch 
+**How to delete branch**
 >> git branch -D branchName
+
 >> git branch -d branchName
    
  OR
