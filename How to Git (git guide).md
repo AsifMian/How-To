@@ -1,6 +1,6 @@
-How to upload project to gitHub
+# How to upload project to gitHub
 
-type:
+Type:
 
 - 1.git init
 - 2.git add .
