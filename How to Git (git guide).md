@@ -38,15 +38,15 @@ if you changed the files online then
 
 - 1.git add .
 
-**For evey change you have to commit the change
+**For evey change you have to commit the change**
 
 - 2.git commit -m "New change"
 
-**check wheather all changes have been commited
+**check wheather all changes have been commited**
 
 - 3.git status
 
-**Then run
+**Then run**
 
 - 4.git push origin master
 
