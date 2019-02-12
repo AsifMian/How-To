@@ -36,18 +36,18 @@ if you changed the files online then
 
 # Run:
 
-- 1. **git add .**
+- **git add .**
 
 ## For evey change you have to commit the change !
-- 2. **git commit -m "New change"**
+-  **git commit -m "New change"**
 
 >>check wheather all changes have been commited
 
-- 3. **git status**
+-  **git status**
 
->>Then run**
+>>Then run
 
-- 4. **git push origin master**
+-  **git push origin master**
 
 # Your changes have been saved to git repository
 
