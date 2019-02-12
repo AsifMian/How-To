@@ -2,20 +2,20 @@
 
 Type:
 
-- 1. git init
-- 2. git add . (. to add all files otherwise you can write only one file name)
-- 3. git commit -m "Message to Display i.e first time you time write initial comment"
+- 1. **git init**
+- 2. **git add .**(. to add all files otherwise you can write only one file name)
+- 3. **git commit -m "Message to Display i.e first time you time write initial comment"**
 
 **Now your Project have been Added to local machine git**
 
 >>To push to whole project to github repository
 
-- 4. git remote add origin <repository Address> !
+- 4. **git remote add origin <repository Address>** !
   i.e git remote add origin https://github.com/AsifMian/nw.git
 
-- 5. git push -u origin master
+- 5. **git push -u origin master**
 
-**Now Your project have been Added to gitHub**
+## Now Your project have been Added to gitHub
 
 
 
@@ -27,16 +27,16 @@ if you changed the files online then
 {
   better to pull the project
 
-  - git pull 
+  - **git pull **
  
   or 
- - git clone <<repository address>>
+ - **git clone repository-address-here**
 
 }
 
 # Run:
 
-- 1. git add .
+- 1. **git add .**
 
 **For evey change you have to commit the change**
 
