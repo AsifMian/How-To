@@ -2,7 +2,6 @@
  Important Linux Commands 
 </h1>
 
-<div align="center">
  
  ## 1.Opening a file as administrator 
   
@@ -22,5 +21,5 @@
    # Move to root
     cd 
  ```  
-</div>
+
 
