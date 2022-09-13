@@ -3,8 +3,11 @@
 ### Step 1: Update the Ubuntu System
 ```
 sudo apt update
-sudo apt install wget apt-transport-https software-properties-common
+```
+## Then 
 
+```
+sudo apt install wget apt-transport-https software-properties-common
 ```
 
 ### Step 2: Import Webmin Repository Key
