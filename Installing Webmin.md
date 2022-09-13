@@ -4,8 +4,6 @@
 ```
 sudo apt update
 ```
-## Then 
-
 ```
 sudo apt install wget apt-transport-https software-properties-common
 ```
@@ -37,6 +35,7 @@ sudo apt install webmin
 ### Step 4: Configure AWS EC2 Ubuntu instance to disable SSL (optional i recommed not to perform this step)
 
 ```
+
 sudo vim /etc/webmin/miniserv.conf
 
 ```
